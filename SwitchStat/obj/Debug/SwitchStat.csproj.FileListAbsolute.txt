@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\SwitchStat\obj\Debug\SwitchStat.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\SwitchStat\obj\Debug\SwitchStat.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SwitchStat\bin\Debug\SwitchStat.exe.config
+C:\Users\ACER\source\repos\SwitchStat\bin\Debug\SwitchStat.exe
+C:\Users\ACER\source\repos\SwitchStat\bin\Debug\SwitchStat.pdb
+C:\Users\ACER\source\repos\SwitchStat\obj\Debug\SwitchStat.exe
+C:\Users\ACER\source\repos\SwitchStat\obj\Debug\SwitchStat.pdb
+C:\Users\ACER\source\repos\SwitchStat\obj\Debug\SwitchStat.exe.config

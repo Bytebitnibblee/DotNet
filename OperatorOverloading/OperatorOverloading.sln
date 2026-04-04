@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading.csproj", "{734B4F08-AF47-4131-A64A-1094FE1F5A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "..\Abstract\Abstract.csproj", "{2CC15E02-4C80-46FB-B135-DBA41A6DAA09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734B4F08-AF47-4131-A64A-1094FE1F5A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734B4F08-AF47-4131-A64A-1094FE1F5A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734B4F08-AF47-4131-A64A-1094FE1F5A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734B4F08-AF47-4131-A64A-1094FE1F5A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC15E02-4C80-46FB-B135-DBA41A6DAA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC15E02-4C80-46FB-B135-DBA41A6DAA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC15E02-4C80-46FB-B135-DBA41A6DAA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC15E02-4C80-46FB-B135-DBA41A6DAA09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF27237-71E8-4A58-8630-D04E098493AE}
+	EndGlobalSection
+EndGlobal

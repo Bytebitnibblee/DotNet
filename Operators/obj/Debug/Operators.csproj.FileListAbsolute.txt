@@ -1,0 +1,2 @@
+C:\Users\ACER\source\repos\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache

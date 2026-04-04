@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Struct\bin\Debug\Struct.exe.config
+C:\Users\ACER\source\repos\Struct\bin\Debug\Struct.exe
+C:\Users\ACER\source\repos\Struct\bin\Debug\Struct.pdb
+C:\Users\ACER\source\repos\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Struct\obj\Debug\Struct.exe
+C:\Users\ACER\source\repos\Struct\obj\Debug\Struct.pdb
+C:\Users\ACER\source\repos\Struct\obj\Debug\Struct.exe.config

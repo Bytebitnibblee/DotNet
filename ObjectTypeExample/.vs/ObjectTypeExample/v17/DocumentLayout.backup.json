@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\ObjectTypeExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7171F367-234F-498A-825C-DC75A26DC3FC}|..\\Enum\\Enum.csproj|c:\\users\\acer\\source\\repos\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7EEF84-AFF5-4DFD-AD66-E042B27D2EB0}|..\\Struct\\Struct.csproj|c:\\users\\acer\\source\\repos\\struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF2B3E8-6286-4F81-9467-08F7FD2F0BC8}|ObjectTypeExample.csproj|c:\\users\\acer\\source\\repos\\objecttypeexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF2B3E8-6286-4F81-9467-08F7FD2F0BC8}|ObjectTypeExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Enum\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Enum\\Program.cs",
+              "RelativeToolTip": "..\\Enum\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:51:13.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Struct\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Struct\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Struct\\Program.cs",
+              "RelativeToolTip": "..\\Struct\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:30:19.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ObjectTypeExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ObjectTypeExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:23:20.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

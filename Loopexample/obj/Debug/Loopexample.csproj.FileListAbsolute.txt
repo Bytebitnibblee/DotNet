@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Loopexample\bin\Debug\Loopexample.exe.config
+C:\Users\ACER\source\repos\Loopexample\bin\Debug\Loopexample.exe
+C:\Users\ACER\source\repos\Loopexample\bin\Debug\Loopexample.pdb
+C:\Users\ACER\source\repos\Loopexample\obj\Debug\Loopexample.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Loopexample\obj\Debug\Loopexample.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Loopexample\obj\Debug\Loopexample.exe
+C:\Users\ACER\source\repos\Loopexample\obj\Debug\Loopexample.pdb
+C:\Users\ACER\source\repos\Loopexample\obj\Debug\Loopexample.exe.config

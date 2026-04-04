@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Swapping\bin\Debug\Swapping.exe.config
+C:\Users\ACER\source\repos\Swapping\bin\Debug\Swapping.exe
+C:\Users\ACER\source\repos\Swapping\bin\Debug\Swapping.pdb
+C:\Users\ACER\source\repos\Swapping\obj\Debug\Swapping.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Swapping\obj\Debug\Swapping.exe
+C:\Users\ACER\source\repos\Swapping\obj\Debug\Swapping.pdb
+C:\Users\ACER\source\repos\Swapping\obj\Debug\Swapping.exe.config

@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\SetExample\bin\Debug\SetExample.exe.config
+C:\Users\ACER\source\repos\SetExample\bin\Debug\SetExample.exe
+C:\Users\ACER\source\repos\SetExample\bin\Debug\SetExample.pdb
+C:\Users\ACER\source\repos\SetExample\obj\Debug\SetExample.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\SetExample\obj\Debug\SetExample.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\SetExample\obj\Debug\SetExample.exe
+C:\Users\ACER\source\repos\SetExample\obj\Debug\SetExample.pdb
+C:\Users\ACER\source\repos\SetExample\obj\Debug\SetExample.exe.config

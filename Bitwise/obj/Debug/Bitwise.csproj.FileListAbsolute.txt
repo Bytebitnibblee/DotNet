@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Bitwise\bin\Debug\Bitwise.exe.config
+C:\Users\ACER\source\repos\Bitwise\bin\Debug\Bitwise.exe
+C:\Users\ACER\source\repos\Bitwise\bin\Debug\Bitwise.pdb
+C:\Users\ACER\source\repos\Bitwise\obj\Debug\Bitwise.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Bitwise\obj\Debug\Bitwise.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bitwise\obj\Debug\Bitwise.exe
+C:\Users\ACER\source\repos\Bitwise\obj\Debug\Bitwise.pdb
+C:\Users\ACER\source\repos\Bitwise\obj\Debug\Bitwise.exe.config

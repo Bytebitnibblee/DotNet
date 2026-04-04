@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\UserInputDemo\bin\Debug\UserInputDemo.exe.config
+C:\Users\ACER\source\repos\UserInputDemo\bin\Debug\UserInputDemo.exe
+C:\Users\ACER\source\repos\UserInputDemo\bin\Debug\UserInputDemo.pdb
+C:\Users\ACER\source\repos\UserInputDemo\obj\Debug\UserInputDemo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\UserInputDemo\obj\Debug\UserInputDemo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\UserInputDemo\obj\Debug\UserInputDemo.exe
+C:\Users\ACER\source\repos\UserInputDemo\obj\Debug\UserInputDemo.pdb
+C:\Users\ACER\source\repos\UserInputDemo\obj\Debug\UserInputDemo.exe.config

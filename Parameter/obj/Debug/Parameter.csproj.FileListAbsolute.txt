@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Parameter\bin\Debug\Parameter.exe.config
+C:\Users\ACER\source\repos\Parameter\bin\Debug\Parameter.exe
+C:\Users\ACER\source\repos\Parameter\bin\Debug\Parameter.pdb
+C:\Users\ACER\source\repos\Parameter\obj\Debug\Parameter.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Parameter\obj\Debug\Parameter.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Parameter\obj\Debug\Parameter.exe
+C:\Users\ACER\source\repos\Parameter\obj\Debug\Parameter.pdb

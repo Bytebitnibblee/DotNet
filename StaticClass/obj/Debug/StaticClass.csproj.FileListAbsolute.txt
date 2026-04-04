@@ -1,0 +1,2 @@
+C:\Users\ACER\source\repos\StaticClass\obj\Debug\StaticClass.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache

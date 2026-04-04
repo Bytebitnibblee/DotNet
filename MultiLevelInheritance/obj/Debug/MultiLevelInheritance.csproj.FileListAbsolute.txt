@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\MultiLevelInheritance\bin\Debug\MultiLevelInheritance.exe.config
+C:\Users\ACER\source\repos\MultiLevelInheritance\bin\Debug\MultiLevelInheritance.exe
+C:\Users\ACER\source\repos\MultiLevelInheritance\bin\Debug\MultiLevelInheritance.pdb
+C:\Users\ACER\source\repos\MultiLevelInheritance\obj\Debug\MultiLevelInheritance.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\MultiLevelInheritance\obj\Debug\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MultiLevelInheritance\obj\Debug\MultiLevelInheritance.exe
+C:\Users\ACER\source\repos\MultiLevelInheritance\obj\Debug\MultiLevelInheritance.pdb

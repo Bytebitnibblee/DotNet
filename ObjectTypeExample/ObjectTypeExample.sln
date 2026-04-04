@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectTypeExample", "ObjectTypeExample.csproj", "{5DF2B3E8-6286-4F81-9467-08F7FD2F0BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "..\Struct\Struct.csproj", "{7E7EEF84-AFF5-4DFD-AD66-E042B27D2EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "..\Enum\Enum.csproj", "{7171F367-234F-498A-825C-DC75A26DC3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF2B3E8-6286-4F81-9467-08F7FD2F0BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF2B3E8-6286-4F81-9467-08F7FD2F0BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF2B3E8-6286-4F81-9467-08F7FD2F0BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF2B3E8-6286-4F81-9467-08F7FD2F0BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7EEF84-AFF5-4DFD-AD66-E042B27D2EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7EEF84-AFF5-4DFD-AD66-E042B27D2EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7EEF84-AFF5-4DFD-AD66-E042B27D2EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7EEF84-AFF5-4DFD-AD66-E042B27D2EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7171F367-234F-498A-825C-DC75A26DC3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7171F367-234F-498A-825C-DC75A26DC3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7171F367-234F-498A-825C-DC75A26DC3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7171F367-234F-498A-825C-DC75A26DC3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D208B12E-5386-4010-A991-0B3AA76A324B}
+	EndGlobalSection
+EndGlobal

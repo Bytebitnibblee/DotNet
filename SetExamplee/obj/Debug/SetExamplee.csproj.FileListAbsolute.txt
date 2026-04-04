@@ -1,0 +1,2 @@
+C:\Users\ACER\source\repos\SetExamplee\obj\Debug\SetExamplee.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\SetExamplee\obj\Debug\SetExamplee.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\MatrixTranverse\bin\Debug\MatrixTranverse.exe.config
+C:\Users\ACER\source\repos\MatrixTranverse\bin\Debug\MatrixTranverse.exe
+C:\Users\ACER\source\repos\MatrixTranverse\bin\Debug\MatrixTranverse.pdb
+C:\Users\ACER\source\repos\MatrixTranverse\obj\Debug\MatrixTranverse.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\MatrixTranverse\obj\Debug\MatrixTranverse.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MatrixTranverse\obj\Debug\MatrixTranverse.exe
+C:\Users\ACER\source\repos\MatrixTranverse\obj\Debug\MatrixTranverse.pdb
+C:\Users\ACER\source\repos\MatrixTranverse\obj\Debug\MatrixTranverse.exe.config

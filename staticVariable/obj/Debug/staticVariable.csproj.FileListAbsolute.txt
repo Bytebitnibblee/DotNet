@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\staticVariable\bin\Debug\staticVariable.exe.config
+C:\Users\ACER\source\repos\staticVariable\bin\Debug\staticVariable.exe
+C:\Users\ACER\source\repos\staticVariable\bin\Debug\staticVariable.pdb
+C:\Users\ACER\source\repos\staticVariable\obj\Debug\staticVariable.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\staticVariable\obj\Debug\staticVariable.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\staticVariable\obj\Debug\staticVariable.exe
+C:\Users\ACER\source\repos\staticVariable\obj\Debug\staticVariable.pdb

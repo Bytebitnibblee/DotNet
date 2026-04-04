@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Deconstructor\bin\Debug\Deconstructor.exe.config
+C:\Users\ACER\source\repos\Deconstructor\bin\Debug\Deconstructor.exe
+C:\Users\ACER\source\repos\Deconstructor\bin\Debug\Deconstructor.pdb
+C:\Users\ACER\source\repos\Deconstructor\obj\Debug\Deconstructor.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Deconstructor\obj\Debug\Deconstructor.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Deconstructor\obj\Debug\Deconstructor.exe
+C:\Users\ACER\source\repos\Deconstructor\obj\Debug\Deconstructor.pdb
+C:\Users\ACER\source\repos\Deconstructor\obj\Debug\Deconstructor.exe.config

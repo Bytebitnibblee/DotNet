@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\BaseKeywordClass\bin\Debug\BaseKeywordClass.exe.config
+C:\Users\ACER\source\repos\BaseKeywordClass\bin\Debug\BaseKeywordClass.exe
+C:\Users\ACER\source\repos\BaseKeywordClass\bin\Debug\BaseKeywordClass.pdb
+C:\Users\ACER\source\repos\BaseKeywordClass\obj\Debug\BaseKeywordClass.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\BaseKeywordClass\obj\Debug\BaseKeywordClass.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BaseKeywordClass\obj\Debug\BaseKeywordClass.exe
+C:\Users\ACER\source\repos\BaseKeywordClass\obj\Debug\BaseKeywordClass.pdb

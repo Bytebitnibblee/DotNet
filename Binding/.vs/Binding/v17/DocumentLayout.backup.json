@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Binding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAEB58F-34D9-4CFC-880A-E9F9A9EF3864}|..\\Overriding\\Overriding.csproj|c:\\users\\acer\\source\\repos\\overriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61281A36-3632-4867-9021-408ECBA32EFC}|..\\Overloading\\Overloading.csproj|c:\\users\\acer\\source\\repos\\overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC93FBC4-3A1C-4A4F-85D1-DF1C38EF3522}|..\\HierarchialInheritance\\HierarchialInheritance.csproj|c:\\users\\acer\\source\\repos\\hierarchialinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D38998-A744-48F3-8CE6-292413DEE4ED}|..\\Inheritance\\Inheritance.csproj|c:\\users\\acer\\source\\repos\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F2A89D-0A80-4904-B9D4-9F135BFA2037}|..\\MultiLevelInheritance\\MultiLevelInheritance.csproj|c:\\users\\acer\\source\\repos\\multilevelinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F5B8A3-D271-4321-87DE-F35F76C2C3D6}|Binding.csproj|C:\\Users\\ACER\\source\\repos\\Binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3F5B8A3-D271-4321-87DE-F35F76C2C3D6}|Binding.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Overriding\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Overriding\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Overriding\\Program.cs",
+              "RelativeToolTip": "..\\Overriding\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:05:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Overloading\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Overloading\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Overloading\\Program.cs",
+              "RelativeToolTip": "..\\Overloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:53:44.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HierarchialInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "..\\HierarchialInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HierarchialInheritance\\Program.cs",
+              "RelativeToolTip": "..\\HierarchialInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:45:16.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MultiLevelInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MultiLevelInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MultiLevelInheritance\\Program.cs",
+              "RelativeToolTip": "..\\MultiLevelInheritance\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T04:07:01.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Inheritance\\Program.cs",
+              "RelativeToolTip": "..\\Inheritance\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T03:40:21.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Binding\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Binding\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T03:28:28.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

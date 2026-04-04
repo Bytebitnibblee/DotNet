@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Lab1_608\obj\Debug\Lab1_608.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Lab1_608\obj\Debug\Lab1_608.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Lab1_608\bin\Debug\Lab1_608.exe.config
+C:\Users\ACER\source\repos\Lab1_608\bin\Debug\Lab1_608.exe
+C:\Users\ACER\source\repos\Lab1_608\bin\Debug\Lab1_608.pdb
+C:\Users\ACER\source\repos\Lab1_608\obj\Debug\Lab1_608.exe
+C:\Users\ACER\source\repos\Lab1_608\obj\Debug\Lab1_608.pdb
+C:\Users\ACER\source\repos\Lab1_608\obj\Debug\Lab1_608.exe.config

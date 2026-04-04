@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Binding\bin\Debug\Binding.exe.config
+C:\Users\ACER\source\repos\Binding\bin\Debug\Binding.exe
+C:\Users\ACER\source\repos\Binding\bin\Debug\Binding.pdb
+C:\Users\ACER\source\repos\Binding\obj\Debug\Binding.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Binding\obj\Debug\Binding.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Binding\obj\Debug\Binding.exe
+C:\Users\ACER\source\repos\Binding\obj\Debug\Binding.pdb
+C:\Users\ACER\source\repos\Binding\obj\Debug\Binding.exe.config

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\ObjectTypeExample\bin\Debug\ObjectTypeExample.exe.config
+C:\Users\ACER\source\repos\ObjectTypeExample\bin\Debug\ObjectTypeExample.exe
+C:\Users\ACER\source\repos\ObjectTypeExample\bin\Debug\ObjectTypeExample.pdb
+C:\Users\ACER\source\repos\ObjectTypeExample\obj\Debug\ObjectTypeExample.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ObjectTypeExample\obj\Debug\ObjectTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ObjectTypeExample\obj\Debug\ObjectTypeExample.exe
+C:\Users\ACER\source\repos\ObjectTypeExample\obj\Debug\ObjectTypeExample.pdb

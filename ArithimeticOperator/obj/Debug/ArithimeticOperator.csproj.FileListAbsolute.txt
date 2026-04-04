@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\ArithimeticOperator\obj\Debug\ArithimeticOperator.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ArithimeticOperator\obj\Debug\ArithimeticOperator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ArithimeticOperator\bin\Debug\ArithimeticOperator.exe.config
+C:\Users\ACER\source\repos\ArithimeticOperator\bin\Debug\ArithimeticOperator.exe
+C:\Users\ACER\source\repos\ArithimeticOperator\bin\Debug\ArithimeticOperator.pdb
+C:\Users\ACER\source\repos\ArithimeticOperator\obj\Debug\ArithimeticOperator.exe
+C:\Users\ACER\source\repos\ArithimeticOperator\obj\Debug\ArithimeticOperator.pdb

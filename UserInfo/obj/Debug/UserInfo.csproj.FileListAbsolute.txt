@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\UserInfo\bin\Debug\UserInfo.exe.config
+C:\Users\ACER\source\repos\UserInfo\bin\Debug\UserInfo.exe
+C:\Users\ACER\source\repos\UserInfo\bin\Debug\UserInfo.pdb
+C:\Users\ACER\source\repos\UserInfo\obj\Debug\UserInfo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\UserInfo\obj\Debug\UserInfo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\UserInfo\obj\Debug\UserInfo.exe
+C:\Users\ACER\source\repos\UserInfo\obj\Debug\UserInfo.pdb
