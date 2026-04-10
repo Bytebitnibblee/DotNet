@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Overloaing\bin\Debug\Overloaing.exe.config
+C:\Users\ACER\source\repos\Overloaing\bin\Debug\Overloaing.exe
+C:\Users\ACER\source\repos\Overloaing\bin\Debug\Overloaing.pdb
+C:\Users\ACER\source\repos\Overloaing\obj\Debug\Overloaing.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Overloaing\obj\Debug\Overloaing.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Overloaing\obj\Debug\Overloaing.exe
+C:\Users\ACER\source\repos\Overloaing\obj\Debug\Overloaing.pdb

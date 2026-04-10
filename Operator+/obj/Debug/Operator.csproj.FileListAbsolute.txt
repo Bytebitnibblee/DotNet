@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Operator+\bin\Debug\Operator+.exe.config
+C:\Users\ACER\source\repos\Operator+\bin\Debug\Operator+.exe
+C:\Users\ACER\source\repos\Operator+\bin\Debug\Operator+.pdb
+C:\Users\ACER\source\repos\Operator+\obj\Debug\Operator.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Operator+\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Operator+\obj\Debug\Operator+.exe
+C:\Users\ACER\source\repos\Operator+\obj\Debug\Operator+.pdb

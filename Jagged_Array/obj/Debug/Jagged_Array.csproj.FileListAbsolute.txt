@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Jagged_Array\bin\Debug\Jagged_Array.exe.config
+C:\Users\ACER\source\repos\Jagged_Array\bin\Debug\Jagged_Array.exe
+C:\Users\ACER\source\repos\Jagged_Array\bin\Debug\Jagged_Array.pdb
+C:\Users\ACER\source\repos\Jagged_Array\obj\Debug\Jagged_Array.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Jagged_Array\obj\Debug\Jagged_Array.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Jagged_Array\obj\Debug\Jagged_Array.exe
+C:\Users\ACER\source\repos\Jagged_Array\obj\Debug\Jagged_Array.pdb
+C:\Users\ACER\source\repos\Jagged_Array\obj\Debug\Jagged_Array.exe.config
