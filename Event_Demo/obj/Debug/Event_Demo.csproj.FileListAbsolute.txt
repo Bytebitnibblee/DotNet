@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Event_Demo\bin\Debug\Event_Demo.exe.config
+C:\Users\ACER\source\repos\Event_Demo\bin\Debug\Event_Demo.exe
+C:\Users\ACER\source\repos\Event_Demo\bin\Debug\Event_Demo.pdb
+C:\Users\ACER\source\repos\Event_Demo\obj\Debug\Event_Demo.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Event_Demo\obj\Debug\Event_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Event_Demo\obj\Debug\Event_Demo.exe
+C:\Users\ACER\source\repos\Event_Demo\obj\Debug\Event_Demo.pdb
+C:\Users\ACER\source\repos\Event_Demo\obj\Debug\Event_Demo.exe.config

@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\InterfaceProgram_608\bin\Debug\InterfaceProgram_608.exe.config
+C:\Users\ACER\source\repos\InterfaceProgram_608\bin\Debug\InterfaceProgram_608.exe
+C:\Users\ACER\source\repos\InterfaceProgram_608\bin\Debug\InterfaceProgram_608.pdb
+C:\Users\ACER\source\repos\InterfaceProgram_608\obj\Debug\InterfaceProgram_608.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\InterfaceProgram_608\obj\Debug\InterfaceProgram_608.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\InterfaceProgram_608\obj\Debug\InterfaceProgram_608.exe
+C:\Users\ACER\source\repos\InterfaceProgram_608\obj\Debug\InterfaceProgram_608.pdb

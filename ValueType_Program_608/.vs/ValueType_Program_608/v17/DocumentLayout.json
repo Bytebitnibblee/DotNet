@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\ValueType_Program_608\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCF1B510-BE31-4CE7-9F5A-C233F2CA0D38}|..\\Smallest_Program_608\\Smallest_Program_608.csproj|c:\\users\\acer\\source\\repos\\smallest_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF58EBE9-D5E1-464F-B3E5-2DF296B9BC44}|..\\LoopControl_Program_608\\LoopControl_Program_608.csproj|c:\\users\\acer\\source\\repos\\loopcontrol_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F46A06-5D87-444C-941E-F2B9CF4067AD}|..\\ArrayParam_Program_608\\ArrayParam_Program_608.csproj|c:\\users\\acer\\source\\repos\\arrayparam_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC4B4D0-9E51-430B-B996-04E2E6B56599}|..\\Diagonal_Program_608\\Diagonal_Program_608.csproj|c:\\users\\acer\\source\\repos\\diagonal_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C741430-23AB-457E-9E0A-9C50BE1CA0FC}|..\\MatrixMul_Program_608\\MatrixMul_Program_608.csproj|c:\\users\\acer\\source\\repos\\matrixmul_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9194FA-628F-4712-8461-761AA1BA8D53}|..\\Jagged_Program_608\\Jagged_Program_608.csproj|c:\\users\\acer\\source\\repos\\jagged_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C168B6-C27C-4222-84ED-333F54FF413D}|..\\CopyString_Program_608\\CopyString_Program_608.csproj|c:\\users\\acer\\source\\repos\\copystring_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8025558-2FC6-4CE1-8C63-44CDF2800FBF}|..\\Split_Program_608\\Split_Program_608.csproj|c:\\users\\acer\\source\\repos\\split_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E34B95-8EFF-4C13-B3BC-1623D48D19CF}|..\\Fibonacci_Program_608\\Fibonacci_Program_608.csproj|c:\\users\\acer\\source\\repos\\fibonacci_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29D9A111-24AB-4174-AD86-B55466FB3905}|..\\Largest_Program_608\\Largest_Program_608.csproj|c:\\users\\acer\\source\\repos\\largest_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA19FB57-0066-4695-8F39-E25C76496E11}|..\\Assignment_Program_608\\Assignment_Program_608.csproj|c:\\users\\acer\\source\\repos\\assignment_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A2FF54-EF23-48C7-B25D-270D9EAAA424}|..\\Bitwise_Program_608\\Bitwise_Program_608.csproj|c:\\users\\acer\\source\\repos\\bitwise_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD8752A-DEDF-4290-B601-19C801793F0D}|..\\Logical_Program_608\\Logical_Program_608.csproj|c:\\users\\acer\\source\\repos\\logical_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{538FF973-75E9-40B8-80C3-33E47BC5E51C}|..\\Relational_Program_608\\Relational_Program_608.csproj|c:\\users\\acer\\source\\repos\\relational_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9DAB7E-FB38-4C41-8B28-F819083A6899}|..\\Arithmetic_Program_608\\Arithmetic_Program_608.csproj|c:\\users\\acer\\source\\repos\\arithmetic_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7839951-A55B-491C-BBA2-19EA3D53CD03}|..\\ReferenceType_Program_608\\ReferenceType_Program_608.csproj|c:\\users\\acer\\source\\repos\\referencetype_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF3B953-DD8A-4578-A2B0-D1D212522C9D}|..\\RefType_Program_608\\RefType_Program_608.vbproj|c:\\users\\acer\\source\\repos\\reftype_program_608\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41E4FFB-22FB-4ACC-8204-30864CCC98AF}|ValueType_Program_608.csproj|c:\\users\\acer\\source\\repos\\valuetype_program_608\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41E4FFB-22FB-4ACC-8204-30864CCC98AF}|ValueType_Program_608.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Smallest_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Smallest_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Smallest_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Smallest_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:47:32.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\LoopControl_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LoopControl_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\LoopControl_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\LoopControl_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:45:01.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ArrayParam_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ArrayParam_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ArrayParam_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\ArrayParam_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:42:36.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Diagonal_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Diagonal_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Diagonal_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Diagonal_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:40:59.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\MatrixMul_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MatrixMul_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\MatrixMul_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\MatrixMul_Program_608\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:38:12.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Jagged_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Jagged_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Jagged_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Jagged_Program_608\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:36:26.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\CopyString_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CopyString_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\CopyString_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\CopyString_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:34:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Split_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Split_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Split_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Split_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:31:47.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Fibonacci_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Fibonacci_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Fibonacci_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Fibonacci_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:30:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Largest_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Largest_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Largest_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Largest_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:24:05.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Assignment_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Assignment_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Assignment_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Assignment_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:21:51.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Bitwise_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bitwise_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Bitwise_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Bitwise_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:20:05.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Logical_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Logical_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Logical_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Logical_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:16:15.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Relational_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Relational_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Relational_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Relational_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:14:47.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Arithmetic_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Arithmetic_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Arithmetic_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\Arithmetic_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:13:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ReferenceType_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ReferenceType_Program_608\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ReferenceType_Program_608\\Program.cs",
+              "RelativeToolTip": "..\\ReferenceType_Program_608\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:11:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\RefType_Program_608\\Module1.vb",
+              "RelativeDocumentMoniker": "..\\RefType_Program_608\\Module1.vb",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\RefType_Program_608\\Module1.vb",
+              "RelativeToolTip": "..\\RefType_Program_608\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-19T04:11:12.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ValueType_Program_608\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ValueType_Program_608\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T03:57:03.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

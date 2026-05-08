@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\ExceptionArray\bin\Debug\ExceptionArray.exe.config
+C:\Users\ACER\source\repos\ExceptionArray\bin\Debug\ExceptionArray.exe
+C:\Users\ACER\source\repos\ExceptionArray\bin\Debug\ExceptionArray.pdb
+C:\Users\ACER\source\repos\ExceptionArray\obj\Debug\ExceptionArray.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ExceptionArray\obj\Debug\ExceptionArray.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ExceptionArray\obj\Debug\ExceptionArray.exe
+C:\Users\ACER\source\repos\ExceptionArray\obj\Debug\ExceptionArray.pdb

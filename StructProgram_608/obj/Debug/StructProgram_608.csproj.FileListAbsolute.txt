@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\StructProgram_608\bin\Debug\StructProgram_608.exe.config
+C:\Users\ACER\source\repos\StructProgram_608\bin\Debug\StructProgram_608.exe
+C:\Users\ACER\source\repos\StructProgram_608\bin\Debug\StructProgram_608.pdb
+C:\Users\ACER\source\repos\StructProgram_608\obj\Debug\StructProgram_608.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\StructProgram_608\obj\Debug\StructProgram_608.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\StructProgram_608\obj\Debug\StructProgram_608.exe
+C:\Users\ACER\source\repos\StructProgram_608\obj\Debug\StructProgram_608.pdb

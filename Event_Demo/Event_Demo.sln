@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Demo", "Event_Demo.csproj", "{956B19F5-0939-4F14-9088-F5B0F39E071F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator", "..\Operator\Operator.csproj", "{561A3765-ECE9-456F-A69D-8EA898827590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{956B19F5-0939-4F14-9088-F5B0F39E071F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956B19F5-0939-4F14-9088-F5B0F39E071F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956B19F5-0939-4F14-9088-F5B0F39E071F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956B19F5-0939-4F14-9088-F5B0F39E071F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561A3765-ECE9-456F-A69D-8EA898827590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561A3765-ECE9-456F-A69D-8EA898827590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561A3765-ECE9-456F-A69D-8EA898827590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561A3765-ECE9-456F-A69D-8EA898827590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19D135FC-1A55-46BD-B304-9EF73213416B}
+	EndGlobalSection
+EndGlobal

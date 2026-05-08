@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Lambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECFCE73-8124-4887-9D7C-34B6AF04A353}|..\\Exception\\Exception.csproj|c:\\users\\acer\\source\\repos\\exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCF1C80-5A74-44E6-8AE5-F8DE391576D7}|..\\ExceptionArray\\ExceptionArray.csproj|c:\\users\\acer\\source\\repos\\exceptionarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8A920A-F56F-4CEB-A9F7-60CCF5444A7E}|Lambda.csproj|c:\\users\\acer\\source\\repos\\lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8A920A-F56F-4CEB-A9F7-60CCF5444A7E}|Lambda.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\ExceptionArray\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ExceptionArray\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\ExceptionArray\\Program.cs",
+              "RelativeToolTip": "..\\ExceptionArray\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:55:11.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Exception\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Exception\\Program.cs",
+              "RelativeToolTip": "..\\Exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:40:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Lambda\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T04:13:59.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

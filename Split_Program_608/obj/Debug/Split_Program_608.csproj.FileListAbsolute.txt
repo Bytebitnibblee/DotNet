@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\Split_Program_608\bin\Debug\Split_Program_608.exe.config
+C:\Users\ACER\source\repos\Split_Program_608\bin\Debug\Split_Program_608.exe
+C:\Users\ACER\source\repos\Split_Program_608\bin\Debug\Split_Program_608.pdb
+C:\Users\ACER\source\repos\Split_Program_608\obj\Debug\Split_Program_608.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Split_Program_608\obj\Debug\Split_Program_608.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Split_Program_608\obj\Debug\Split_Program_608.exe
+C:\Users\ACER\source\repos\Split_Program_608\obj\Debug\Split_Program_608.pdb
+C:\Users\ACER\source\repos\Split_Program_608\obj\Debug\Split_Program_608.exe.config
