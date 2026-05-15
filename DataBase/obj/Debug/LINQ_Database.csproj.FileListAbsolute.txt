@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\ACER\source\repos\DataBase\bin\Debug\DataBase.exe
+C:\Users\ACER\source\repos\DataBase\bin\Debug\DataBase.pdb
+C:\Users\ACER\source\repos\DataBase\obj\Debug\LINQ_Database.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\DataBase\obj\Debug\LINQ_Database.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DataBase\obj\Debug\DataBase.exe
+C:\Users\ACER\source\repos\DataBase\obj\Debug\DataBase.pdb
+C:\Users\ACER\source\repos\DataBase\obj\Debug\DataBase.exe.config
